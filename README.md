@@ -1,7 +1,7 @@
 <h1>Sejam bem vindo ao meu Git hub</h1>
 
 <h2>sobre mim: </h2>
-
+Meu nome é Nicolly, eu tenho 17 anos, estudo no Padre Ancheita, eu gosto de ler e escrever, eu faço curso de inglês na fisk dias de sábados e pretendo futuramente ficar belíngue e viajar para vários países. Eu faço curso técnico na escola também de desenvolvimento de sistemas e versionamente de código, entre outros, eu tenho 4 calopsítas mas pretendo ter um cachorro futuramente e trabalhar na área de odotologia ou produção de vídeos. Eu gosto de jogos, vôlei, jiu-jitsu, entre outros esportes, e adoro filmes e séries. 
 <!--
 **nimoura04/nimoura04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
